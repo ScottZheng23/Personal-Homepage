@@ -1,2 +1,0 @@
-Test:
-If I create a new file on Giithub, whether I can use git to synchronize the file to local repository
