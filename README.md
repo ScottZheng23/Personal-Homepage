@@ -1,9 +1,9 @@
-Life is tough, but don't waste it
+Welcome to my homepage!
 
-Seize every opportunity to make yourself stronger
+The following content need to be noticed:
+1. Insert the audio and iframe to play the media source
+2. Navigation bar can go to the specific location in the page
+3. Link to baidu map and other website
 
-Make some contribution to the society and your family
-
-Always remember the motto: To learn To apply For the benefit of human !
 
 
